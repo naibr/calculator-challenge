@@ -3,6 +3,12 @@
   padding: 0;
 }
 
+#calculator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 #buttons {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -10,4 +16,14 @@
   width: 320px;
   padding: 100px;
   height: 400px;
+}
+
+#console__display {
+  background-color: rgba(68, 62, 65, 0.178);
+  border: solid 1px black;
+  height: 100px;
+  width: 320px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
 }
