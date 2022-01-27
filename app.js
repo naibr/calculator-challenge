@@ -67,7 +67,3 @@ clear.addEventListener("click", (event) => {
     symbol = ""
     totalDisplay.innerHTML = ""
 })
-
-allClear.addEventListener("click", (event) => {
-    totalDisplay.innerHTML = " ";
-})

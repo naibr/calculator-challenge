@@ -60,6 +60,3 @@ clear.addEventListener("click", function (event) {
   symbol = "";
   totalDisplay.innerHTML = "";
 });
-allClear.addEventListener("click", function (event) {
-  totalDisplay.innerHTML = " ";
-});
