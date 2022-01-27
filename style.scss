@@ -19,9 +19,7 @@
 }
 
 #console__display {
-    background-color: rgba(68, 62, 65, 0.178);
-    border: solid 1px black;
-    border-radius: 2%;
+    background-color: rgba(57, 78, 122, 0.178);
     height: 80px;
     width: 320px;
     text-align: center;
@@ -29,9 +27,12 @@
     font-size: 30px;
 }
 
+#console {
+    border: 1px solid rgb(123, 141, 175);
+}
+
 #console__total {
-    background-color: rgba(68, 62, 65, 0.178);
-    border: solid 1px black;
+    background-color: rgba(12, 29, 66, 0.178);
     height: 80px;
     width: 320px;
     text-align: center;
