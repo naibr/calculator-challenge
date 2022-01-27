@@ -37,7 +37,6 @@ operators.forEach(operator => {
 })
 
 
-
 total.addEventListener("click", (event) => {
     
     secondNumber = display.innerHTML;
