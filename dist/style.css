@@ -15,6 +15,13 @@
   margin: auto auto;
   width: 320px;
   height: 400px;
+  background-color: white;
+}
+
+button {
+  background-color: rgba(8, 8, 32, 0.486);
+  font-size: 30px;
+  color: #ece8e8;
 }
 
 #console__display {
