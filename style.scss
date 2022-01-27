@@ -6,15 +6,11 @@
 #buttons {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    align-items: center;
-    width: 300px;
-    padding: 50px;
-
-
-#btn__number {
-        height: 300px;
-    }
-
+    margin: auto auto;
+    width: 320px;
+    padding: 100px;
+    height: 400px;
 }
 
-  
+
+
